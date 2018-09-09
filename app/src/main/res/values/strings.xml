@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Notifications</string>
+    <string name="start_note">Start Notification</string>
+    <string name="cancel_note">Cancel Notification</string>
+    <string name="update_note">Update Notification</string>
+</resources>
